@@ -1,0 +1,5 @@
+- Cấu trúc phù hợp cho các bạn clear code và tích hợp test vào NodeJS
+- Phù hợp việc update và nâng cấp version, thay đổi các signature ..v..v
+- Luôn tách ra ở mỗi version, tuyệt đối không dùng chung tránh trường hợp deploy ảnh hưởng lẫn lộn các version
+- Thường phù hợp với dự án cá nhân làm độc lập
+- Dễ dàng theo dõi code theo từng đối tượng: oder, user..... không bị rối khi gọi nhiều folder

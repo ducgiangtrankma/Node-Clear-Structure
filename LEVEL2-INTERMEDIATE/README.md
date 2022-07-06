@@ -1,0 +1,2 @@
+- Cấu trúc phù hợp cho các bạn đã có kinh nghiệm (Fresher,junior)
+- Route -> Controller -> (Validation) -> Service -> Model

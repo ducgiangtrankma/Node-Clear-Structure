@@ -1,0 +1,3 @@
+- Cấu trúc phù hợp cho các bạn clear code và tích hợp test vào NodeJS
+- Phù hợp việc update và nâng cấp version, thay đổi các signature token, dateToken ..v..v
+- Luôn tách ra ở mỗi version, tuyệt đối không dùng chung tránh trường hợp deploy ảnh hưởng lẫn lộn các version
